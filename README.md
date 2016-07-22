@@ -1,5 +1,5 @@
 SourceSansPro
 =============
 
-Скомпилированный набор шрифтов SourceSansPro от [Paul D Hunt](https://github.com/pauldhunt/SourceSansPro)
-для личных проектов.
+Скомпилированный набор шрифтов [SourceSansPro](https://github.com/pauldhunt/SourceSansPro)
+от Paul D. Hunt для личных проектов.
